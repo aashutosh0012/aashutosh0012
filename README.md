@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aashutosh
-- 👀 I’m interested in Web Development, Backend, Cloud & of course Machine Learning.
-- 🌱 I’m currently learning Django, Containerization (Docker & Kubernetes).
-- I have expertise on Database Administration(Oracle, SQL, MySQL), Shell Scripting, Jira Administration, Powershell Scripting
+- 🌱 I’m currently working on Python & Django, and learning Containerization (Docker & Kubernetes).
+- 👀 I have expertise on Database Administration(Oracle, SQL, MySQL), Shell Scripting, Jira Administration, Powershell Scripting
 - 💞️ I’m looking to collaborate on Python & Django Projects
+- 👀 I’m interested in Web Development, Backend, Cloud & of course Machine Learning.
 - 📫 I can be reached via email on aashutosh0012@gmail.com
 
 <!---
